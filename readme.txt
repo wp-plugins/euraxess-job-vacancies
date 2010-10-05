@@ -1,7 +1,6 @@
 === EURAXESS Jobs Vacancies ===
 Contributors: euraxess
-Donate link: http://ec.europa.eu/euraxess/index.cfm/jobs/widgets
-Tags: euraxess, job vacancies
+Tags: euraxess, job vacancies, widget, sidebar
 Requires at least: 2.0
 Tested up to: 3.0.1
 Stable tag: trunk
