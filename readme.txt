@@ -1,12 +1,12 @@
-=== Plugin Name ===
+=== EURAXESS Job Vacancies ===
 Contributors: euraxess
 Donate link: http://ec.europa.eu/euraxess/index.cfm/jobs/widgets
 Tags: euraxess, job vacancies
-Requires at least: 1.0
+Requires at least: 2.0
 Tested up to: 3.0.1
 Stable tag: trunk
 
-EURAXESS Widgets is a small application bringing EURAXESS functionalities to your website.
+EURAXESS Job Vacancies Widget is a small application bringing EURAXESS functionalities to your website.
 
 == Description ==
 
